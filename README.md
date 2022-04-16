@@ -1,4 +1,8 @@
 <hr>
 <img src="scr1pp3d.JPG">
-##### she/her
+<hr>
 
+#### LANGUAGES:                    
+• JavaScript, Node.JS, HTML, CSS   
+#### PRONOUNS:                     
+• she/her                          
