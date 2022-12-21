@@ -6,4 +6,4 @@
 
 <hr>
 
-<img src="https://img.buzzfeed.com/buzzfeed-static/static/2020-07/15/0/asset/4aee9a1ffede/anigif_sub-buzz-610-1594774372-16.gif">
+<img align="center" src="https://img.buzzfeed.com/buzzfeed-static/static/2020-07/15/0/asset/4aee9a1ffede/anigif_sub-buzz-610-1594774372-16.gif">
