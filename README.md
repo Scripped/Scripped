@@ -2,4 +2,4 @@
 <img src="scr1pp3d.JPG">
 <hr>
 
-javascript, python, css, html
+╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾ ˗ˏˋ  she/her • javascript, python, css, html  ´ˎ˗ ╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾
