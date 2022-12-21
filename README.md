@@ -1,5 +1,5 @@
 <hr>
-<img src="scr1pp3d.JPG">
+<h1 align="center"> SCR1PP3D </h1>
 <hr>
 
 <p align="center">╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾ ˗ˏˋ  she/her • javascript, python, css, html  ´ˎ˗ ╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾╾</p>
